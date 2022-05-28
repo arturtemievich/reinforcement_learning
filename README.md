@@ -1,7 +1,11 @@
 # reinforcement_learning
 Reinforcement Learning Algorithms
 
-### Temporal-Difference (TD) Learning
+### Tabular Crossentropy Method
+
+### Deep Crossentropy Method
+
+### Temporal-Difference Learning
 
 * Q-learning
 * SARSA
